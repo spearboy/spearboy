@@ -15,10 +15,10 @@
   <a href="https://nicejmp1.github.io/"><img src="https://img.shields.io/badge/Githubblog-181717?style=for-the-badge&logo=github&logoColor=white"></a></div>
   
 <h2 alifn="left"> 📁 2024.03.18 ~ ing 📁 </h2>
-[메인페이지](https://spearboy.github.io/class2024/)   
-[자바스크립트](https://spearboy.github.io/class2024/javascript/index.html)   
-[MySQL](https://spearboy.github.io/class2024/mysql/index.html)    
-[퀴즈게임] (https://spearboy.github.io/class2024/quiz/index.html)   
+[메인페이지] : (https://spearboy.github.io/class2024/)<br><br>
+[자바스크립트] : (https://spearboy.github.io/class2024/javascript/index.html)<br><br>
+[MySQL] : (https://spearboy.github.io/class2024/mysql/index.html)<br><br>
+[퀴즈게임] : (https://spearboy.github.io/class2024/quiz/index.html)<br><br>
 
 <h2 alift="left">🎉 PROJECTS</h2>
 <p>[Chapter1]</p>   
