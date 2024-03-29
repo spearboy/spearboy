@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/spearboy/spearboy/assets/163364733/5b7c2a40-70d2-4728-aed8-5cc2faa46f4d" />
-</div>
+
 
 # 🌈 Hello 
 <div align="center">
