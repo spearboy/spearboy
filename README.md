@@ -19,8 +19,8 @@
 [퀴즈게임] : (https://spearboy.github.io/class2024/quiz/index.html)<br><br>
 
 <h2 alift="left">🎉 PROJECTS</h2>
-[Chapter1](http://spearboy.dothome.co.kr/)   
-[Chapter2](https://cardive.vercel.app/)   
+[Chapter1](http://spearboy.dothome.co.kr/)<br><br>
+[Chapter2](https://cardive.vercel.app/)<br><br>
 [Chapter3]
   
 <h2 align="left"> ⚒️ Techonolgies and Tools I Use ⚒️ </h2>
