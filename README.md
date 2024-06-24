@@ -23,16 +23,14 @@
 <br>
 [github](https://github.com/spearboy/project_pickstom/) 
 <br>
-![메인페이지](https://github.com/123dd654/project-pickstom/assets/161431124/774fbd1f-6530-4c42-a34d-132387446f96)
- - 픽스텀은 반려견의 옷을 커스텀해 저장하고, 다른 사람과 소통할 수 있는 종합적인 웹페이지를 목표로 만들었습니다.
+- 픽스텀은 반려견의 옷을 커스텀해 저장하고, 다른 사람과 소통할 수 있는 종합적인 웹페이지를 목표로 만들었습니다.
 <br>
 <br>
 [TEAM-2](https://cardive.vercel.app/)
 <br>
 [github](https://github.com/spearboy/project_pickstom/)
-<br> 
-<img width="1678" alt="image" src="https://github.com/spearboy/carddive/assets/95023009/3c9c90ea-ad84-4fb2-a046-2ee8325a8c6e"> 
- - cardive는 불편하게 찾아보는 신용카드를 한눈에 모아볼 수 있게 만든 신용카드 정보 사이트 입니다.
+<br>
+- cardive는 불편하게 찾아보는 신용카드를 한눈에 모아볼 수 있게 만든 신용카드 정보 사이트 입니다.
 <br>
 <br>
 [SINGLE-1](https://kboland.vercel.app/)<br><br>
