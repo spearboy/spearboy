@@ -33,9 +33,14 @@
 - cardive는 불편하게 찾아보는 신용카드를 한눈에 모아볼 수 있게 만든 신용카드 정보 사이트 입니다.
 <br>
 <br>
-[SINGLE-1](https://kboland.vercel.app/)<br><br>
-[SINGLE-2](https://musicflixcbh.vercel.app)<br><br>
-  
+[SINGLE-1](https://kboland.vercel.app/)<br>
+[github](https://github.com/spearboy/project_pickstom/)<br>
+- kboland는 유튜브 API를 이용한 첫번째 사이트 입니다. 한국 프로야구 10개의 팀에 관련된 영상과 간단한 팀정보를 볼 수 있는 사이트 입니다.
+<br><br>
+[SINGLE-2](https://musicflixcbh.vercel.app)<br>
+[github](https://github.com/spearboy/yt_music)<br>
+- musicflix는 유튜브 API를 이용한 두번째 사이트 입니다. 나만의 리스트를 이용해 노래를 듣고 즐길 수 있습니다.
+<br><br>
 <h2 align="left"> ⚒️ Techonolgies and Tools I Use ⚒️ </h2>
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")
