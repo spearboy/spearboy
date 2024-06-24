@@ -51,6 +51,12 @@
 
 ---
 
+### SINGLE-3: WhatMovie
+- **Link:** [WhatMovie](https://moviecbh.vercel.app/)
+- **GitHub:** [spearboy/what_movie](https://github.com/spearboy/what_movie)
+- **Description:** WhatMovie는 TMDB API를 이용하여 현재 상영중인 영화나 기존의 영화의 평점및 정보를 제공합니다.
+
+---
 ## ⚒️ Technologies and Tools I Use ⚒️ 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")
 ![React](https://img.shields.io/badge/React-2023/2A?style=for-the-badge&logo=react&logoColor=61DAFB")
