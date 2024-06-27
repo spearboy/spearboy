@@ -57,6 +57,20 @@
 - **Description:** WhatMovie는 TMDB API를 이용하여 현재 상영중인 영화나 기존의 영화의 평점및 정보를 제공합니다.
 
 ---
+
+### SINGLE-4: VUE
+- **Link:** [vue-first](vue-first-chi.vercel.app)
+- **GitHub:** [spearboy/vue_first](https://github.com/spearboy/vue_first)
+- **Description:** Vue.js를 공부하고자 만든 포트폴리오 사이트 입니다.
+
+---
+
+### SINGLE-5: NEXT
+- **Link:** [next](https://next-three-black.vercel.app)
+- **GitHub:** [spearboy/next](https://github.com/spearboy/next)
+- **Description:** Next.js를 공부하고자 만든 포트폴리오 사이트 입니다.
+
+---
 ## ⚒️ Technologies and Tools I Use ⚒️ 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")
 ![React](https://img.shields.io/badge/React-2023/2A?style=for-the-badge&logo=react&logoColor=61DAFB")
