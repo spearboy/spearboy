@@ -32,14 +32,14 @@
 
 ### TEAM-2: Cardive
 - **Link:** [Cardive](https://cardive.vercel.app/)
-- **GitHub:** [spearboy/project_pickstom](https://github.com/spearboy/project_pickstom/)
+- **GitHub:** [spearboy/project_pickstom](https://github.com/spearboy/carddive)
 - **Description:** Cardive는 신용카드 정보를 한 눈에 볼 수 있는 웹사이트입니다. 사용자들에게 편리한 서비스를 제공합니다.
 
 ---
 
 ### SINGLE-1: Kboland
 - **Link:** [Kboland](https://kboland.vercel.app/)
-- **GitHub:** [spearboy/project_pickstom](https://github.com/spearboy/project_pickstom/)
+- **GitHub:** [spearboy/project_pickstom](https://github.com/spearboy/kboland)
 - **Description:** Kboland는 한국 프로야구 팀에 대한 영상과 간단한 팀 정보를 제공하는 웹사이트입니다. 유튜브 API를 활용하고 있습니다.
 
 ---
